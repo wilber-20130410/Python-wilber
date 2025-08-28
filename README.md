@@ -7,5 +7,5 @@ U1_ShowCards.py 抽纸牌算法；
 U1_factorial.py 求数的乘阶；  
 U2_Heart.py 笛卡尔心形，一个凄美的故事，不过是骗人的；
 Audio.py 音频可视化代码；  
-Minecraft.ogg 取自于Minecraft的背景音乐，请放于工作目录下；  
-minecraft_title.ttf 取自于Minecraft的英文字体，请放于工作目录下；
+Minecraft.ttf 取自于Minecraft的英文字体，配套Audio.py使用，请放于工作目录下；  
+minecraft_title.ogg 取自于Minecraft的背景音乐，配套Audio.py使用，请放于工作目录下；
