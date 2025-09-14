@@ -10,3 +10,5 @@ Audio.py 音频可视化代码；
 Minecraft.ttf 取自于Minecraft的英文字体，配套Audio.py使用，请放于工作目录下；  
 minecraft_title.ogg 取自于Minecraft的背景音乐，配套Audio.py使用，请放于工作目录下；  
 sha256sum-v1.0.0-build312030913142201.py 检查LambdaTechnology的恶意软件;  
+U2_PI.py 蒙特卡洛法求pie；  
+U2_GCD.py 求两个整数的最大公约数；  
