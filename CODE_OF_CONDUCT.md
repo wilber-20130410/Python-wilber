@@ -46,13 +46,13 @@
 本行为准则改编自《贡献者公约》3.0 版，可在 https://www.contributor-covenant.org/version/3/0/ 永久提供。    
 灵感来源于“ [motanelson](https://github.com/motanelson) ”的“ [Contributor Covenant Code of Conduct](https://github.com/motanelson/tunnel.class/blob/main/CODE_OF_CONDUCT.md) ”。    
 贡献者契约由道德来源组织管理，并根据 CC BY-SA 4.0 获得许可。要查看此许可证的副本，请访问 https://creativecommons.org/licenses/by-sa/4.0/
-有关 Contributor Covenant 的常见问题的解答，请参阅 https://www.contributor-covenant.org/faq 中的常见问题解答。翻译在 https://www.contributor-covenant.org/translations 提供。如需了解其他执行和社区准则资源，请访问 https://www.contributor-covenant.org/resources。执法阶梯的灵感来自于 Mozilla行为准则团队的工作。
-
-
-
-
-
-
+有关 Contributor Covenant 的常见问题的解答，请参阅 https://www.contributor-covenant.org/faq 中的常见问题解答。翻译在 https://www.contributor-covenant.org/translations 提供。如需了解其他执行和社区准则资源，请访问 https://www.contributor-covenant.org/resources。执法阶梯的灵感来自于 Mozilla行为准则团队的工作。    
+    
+    
+    
+    
+    
+    
 by:wilber-20130410
 
 2025.9.19
