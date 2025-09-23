@@ -12,3 +12,4 @@ minecraft_title.ogg 取自于Minecraft的背景音乐，配套Audio.py使用，�
 sha256sum-v1.0.0-build312030913142201.py 检查LambdaTechnology的恶意软件;  
 U2_PI.py 蒙特卡洛法求pie；  
 U2_GCD.py 求两个整数的最大公约数；  
+sound.py 字节节拍生成的音效；  
