@@ -1,4 +1,5 @@
 #抽纸牌
+# © 2025 wilber-20130410
 import random
 
 #传统算法
@@ -42,4 +43,5 @@ for r in Show1:
         getCards('方', r - 39, Show2, shape)
     else:
         Show2.append(shape[r % 50])
+
 print(Show2)
