@@ -1,4 +1,5 @@
 #累加器算法
+# © 2025 wilber-20130410
 import time
 
 def Add_N(n1):
@@ -16,4 +17,5 @@ print("循环累加算法用时： %.8f 秒" % (t2 - t1))
 t3 = time.perf_counter()
 print("采用累加公式计算1到%d 累加和为%d" % (N, N * (N + 1) / 2))
 t4 = time.perf_counter()
+
 print("循环累加算法用时： %.8f 秒" % (t4 - t3))
