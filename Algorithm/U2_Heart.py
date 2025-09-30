@@ -1,4 +1,5 @@
 #笛卡尔心形
+# © 2025 wilber-20130410
 
 import matplotlib.pyplot as plt #pip install matplotlib
 import numpy as np #pip install numpy
@@ -9,4 +10,5 @@ rho = a * (1 - np.sin(x))
 plt.subplot(polar = True)
 plt.plot(x, rho, c = 'r')
 plt.text(0, 0, 'Love You!',color = 'm')
+
 plt.show()
