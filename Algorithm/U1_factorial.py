@@ -1,4 +1,5 @@
 #求数的乘阶
+# © 2025 wilber-20130410
 
 def factorial(x):
     m = 1
@@ -10,4 +11,5 @@ def factorial(x):
 
 x = 10#要求乘阶的数
 v = factorial(x)
+
 print("%d 的乘阶是%d" % (x, v))
