@@ -1,5 +1,5 @@
 #笛卡尔心形
-# © 2025 wilber-20130410
+# © 2025~2026 wilber-20130410
 
 import matplotlib.pyplot as plt #pip install matplotlib
 import numpy as np #pip install numpy

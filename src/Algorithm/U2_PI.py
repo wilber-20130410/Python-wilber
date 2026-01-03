@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 #蒙特卡洛法求pie
-# © 2025 wilber-20130410
-
+# © 2025~2026 wilber-20130410
 from random import random
 
 n = 100000 #求pie的精度值，越大越高,但不宜过高(如果你的电脑配置很好，当我没说)

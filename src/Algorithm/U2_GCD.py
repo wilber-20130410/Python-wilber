@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # 求两个整数的最大公约数
-# © 2025 wilber-20130410
+# © 2025~2026 wilber-20130410
 
 def Divisor(x, y):
     reduce = 0
