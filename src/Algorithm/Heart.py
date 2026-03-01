@@ -1,4 +1,5 @@
-#笛卡尔心形
+# -*- coding: utf-8 -*-
+# 笛卡尔心形
 # © 2025~2026 wilber-20130410
 
 import matplotlib.pyplot as plt #pip install matplotlib

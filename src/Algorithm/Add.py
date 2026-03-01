@@ -1,4 +1,5 @@
-#累加器算法
+# -*- coding: utf-8 -*-
+# 累加器算法
 # © 2025~2026 wilber-20130410
 import time
 

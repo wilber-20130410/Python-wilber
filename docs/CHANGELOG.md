@@ -6,6 +6,39 @@ Project versioning adheres to [Semantic Versioning](http://semver.org/).
 Commit convention is based on [Conventional Commits](http://conventionalcommits.org).
 Change log format is based on [Keep a Changelog](http://keepachangelog.com/).
 
+## [1.0.1-beta-3-build-313090301170501.2026](https://github.com/wilber-20130410/Python-wilber/compare/v1.0.1-beta-2-build-313090101080601.2026...v1.0.1-beta-3-build-313090301170501.2026) - 22026-03-01
+
+总项目更新版本号： v1.0.1-beta-3-build-0301144501.2026
+
+本项目更新版本号： v1.0.1-beta-3-build-313090301170501.2026
+
+### 新增
+
+#### Algorithm
+
+- 新增LCM.py、LeapYear.py、Area.py
+
+### 修复
+
+- 无
+
+### 变更
+
+#### Algorithm
+
+- 文件重命名
+- 添加 `# -*- coding: utf-8 -*-`
+
+### 其他
+
+- 无
+
+
+
+by:wilber-20130410
+
+2026.3.1
+
 ## [1.0.1-beta-2-build-313090101080601.2026](https://github.com/wilber-20130410/Python-wilber/compare/v1.0.1-beta-1-bulid-312031001143901.2025...v1.0.1-beta-2-build-313090101080601.2026) - 22026-01-01
 
 ### Github更新

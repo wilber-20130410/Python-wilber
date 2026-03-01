@@ -1,4 +1,5 @@
-#抽纸牌
+# -*- coding: utf-8 -*-
+# 抽纸牌
 # © 2025~2026 wilber-20130410
 import random
 

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-#蒙特卡洛法求pie
+# 蒙特卡洛法求pie
 # © 2025~2026 wilber-20130410
 from random import random
 
